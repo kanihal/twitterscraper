@@ -47,7 +47,7 @@ Per Tweet it scrapes the following information:
  + Tweet is an retweet
  + Username retweeter
  + Userid retweeter
- + Retweer ID
+ + Retweet ID
  
 In addition it can scrape for the following user information: 
  + Date user joined
